@@ -15,7 +15,7 @@
             ]
         },
         {
-            "name": "mTools",
+            "name": "MyTools",
             "description": "This is a private tools for Sublime",
             "details": "https://github.com/newnight/MyTools",
             "releases": [
