@@ -17,7 +17,7 @@
         {
             "name": "mTools",
             "description": "This is a private tools for Sublime",
-            "details": "https://github.com/newnight/mTools",
+            "details": "https://github.com/newnight/MyTools",
             "releases": [
                 {
                     "sublime_text": ">=3000",
