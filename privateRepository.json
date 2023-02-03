@@ -25,6 +25,37 @@
                     "tags": true
                 }
             ]
+        },
+        {
+            "name": "LSP-serenata",
+            "description": "PHP support for Sublime's LSP plugin using Serenata",
+            "authors": [
+                "sublimelsp"
+            ],
+            "homepage": "https://github.com/sublimelsp/LSP-serenata",
+            "previous_names": [],
+            "labels": [
+                "auto-complete",
+                "linting",
+                "formatting",
+                "code navigation",
+                "intellisense"
+            ],
+            "readme": "https://raw.githubusercontent.com/sublimelsp/LSP-serenata/master/README.md",
+            "issues": "https://github.com/sublimelsp/LSP-serenata/issues",
+            "donate": null,
+            "buy": null,
+            "releases": [
+                {
+                    "platforms": [
+                        "*"
+                    ],
+                    "sublime_text": ">=3000",
+                    "version": "0.0.5",
+                    "url": "https://codeload.github.com/sublimelsp/LSP-serenata/zip/0.0.5",
+                    "date": "2020-01-12 23:00:38"
+                }
+            ]
         }
     ],
     "dependencies": [],
