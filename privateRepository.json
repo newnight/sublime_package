@@ -32,7 +32,7 @@
             "authors": [
                 "sublimelsp"
             ],
-            "homepage": "https://github.com/sublimelsp/LSP-serenata",
+            "details": "https://github.com/sublimelsp/LSP-serenata",
             "previous_names": [],
             "labels": [
                 "auto-complete",
@@ -51,9 +51,7 @@
                         "*"
                     ],
                     "sublime_text": ">=3000",
-                    "version": "0.0.5",
-                    "url": "https://codeload.github.com/sublimelsp/LSP-serenata/zip/0.0.5",
-                    "date": "2020-01-12 23:00:38"
+                    "tags": true
                 }
             ]
         }
